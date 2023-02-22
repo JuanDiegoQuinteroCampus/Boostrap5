@@ -1,0 +1,12 @@
+
+section{
+    background-color: darkred;
+}
+#imagen{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.iconos{
+    width: 40px;
+}
