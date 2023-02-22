@@ -1,11 +1,11 @@
 
 section{
-    background-color: darkred;
+    background-color: rgb(112, 56, 56);
 }
 #imagen{
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+    
 }
 .iconos{
     width: 40px;
