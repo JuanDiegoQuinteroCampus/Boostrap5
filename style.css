@@ -1,6 +1,6 @@
 
 section{
-    background-color: rgb(112, 56, 56);
+    background-color: rgb(104, 50, 50);
 }
 #imagen{
     width: 230px;
@@ -10,3 +10,6 @@ section{
 .iconos{
     width: 40px;
 }
+.espacio:hover {
+    background: #fff; /* color de fuente hover */
+  }
